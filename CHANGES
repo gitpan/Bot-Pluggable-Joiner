@@ -1,0 +1,11 @@
+Changes file for Bot::Pluggable::Trust
+
+	v.0.05
+			 12/4/2003 2:15:41 PM -- Cleaned up for CPAN Release
+  v.0.04 
+			 27/02/2003 9:23 PM -- Moved the Channel data to the Session Heap
+  v0.03
+		   	 07/02/2003 12:55 AM -- Multi-Channel Hacked in ... I think
+  v0.02
+		     05/02/2003 9:32 PM -- Started Documentation
+			 
